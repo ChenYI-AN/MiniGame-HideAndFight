@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\obj\Debug\HideAndFight.csprojAssemblyReference.cache
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\obj\Debug\HideAndFight.Properties.Resources.resources
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\obj\Debug\HideAndFight.csproj.GenerateResource.cache
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\bin\Debug\HideAndFight.exe.config
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\bin\Debug\HideAndFight.exe
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\bin\Debug\HideAndFight.pdb
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\obj\Debug\HideAndFight.exe
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\obj\Debug\HideAndFight.pdb
+C:\Users\user\Desktop\大三上\GPM\練習程式\HideAndFight\HideAndFight\HideAndFight\obj\Debug\HideAndFight.Form1.resources
